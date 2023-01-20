@@ -1,0 +1,11 @@
+.unmute {
+    background-image: url(.../assets/img/unmute.png);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+  }
+  
+  .mute {
+    background-image: url(.../assets/img/mute.png);
+  }

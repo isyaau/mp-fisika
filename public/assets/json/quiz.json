@@ -1,0 +1,114 @@
+[
+	{
+		"intro": {
+			"title": "Quiz Soal Usaha",
+			"description": "Test kemampuan materi Usaha mu"
+		},
+		"questions": [
+			{
+				"question": "Dayu menarik sebuah gerobak berisi pasir dengan gaya sebesar 500 N sehingga gerobak tersebut berpindah sejauh 10 m. Berdasarkan pernyataan tersebut, besar usaha yang dilakukan Dayu adalah J",
+				"description": null,
+				"answers": [
+					{
+						"answer": "5",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan : <br>F = 500 N <br>s = 10 m <br>Ditanyakan: W = …? <br>Jawaban:<br><br>W = F x s <br>W = 500 N x 10 m = 5.000 J",
+						"true": 0
+					},
+					{
+						"answer": "50",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan : <br>F = 500 N <br>s = 10 m <br>Ditanyakan: W = …? <br>Jawaban:<br><br>W = F x s <br>W = 500 N x 10 m = 5.000 J",
+						"true": 0
+					},
+					{
+						"answer": "500",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan : <br>F = 500 N <br>s = 10 m <br>Ditanyakan: W = …? <br>Jawaban:<br><br>W = F x s <br>W = 500 N x 10 m = 5.000 J",
+						"true": 0
+					},
+					{
+						"answer": "5.000",
+						"alert": "<strong>Jawaban Benar!</strong><br> Pembahasan : <br>F = 500 N <br>s = 10 m <br>Ditanyakan: W = …? <br>Jawaban:<br><br>W = F x s <br>W = 500 N x 10 m = 5.000 J",
+						"true": 1
+					}
+				]
+			},
+			{
+				"question": "Jarak yang ditempuh oleh mobil saat melaju dengan usaha sebesar 15.000 J dan gaya sebesar 500 N adalah m?",
+				"description": null,
+				"answers": [
+					{
+						"answer": "3",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br>W = 15.000 J <br> F = 500 N<br>Ditanyakan: s = …? <br>Jawaban:<br>W = F x s<br>s = W/F<br> s = 15.000 <br>J/500 <br>N = 30 m",
+						"true": 0
+					},
+					{
+						"answer": "30",
+						"alert": "<strong>Jawaban Benar!</strong><br>Pembahasan :<br>W = 15.000 J <br> F = 500 N<br>Ditanyakan: s = …? <br>Jawaban:<br>W = F x s<br>s = W/F<br> s = 15.000 <br>J/500 <br>N = 30 m ",
+						"true": 1
+					},
+					{
+						"answer": "25",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br>W = 15.000 J <br> F = 500 N<br>Ditanyakan: s = …? <br>Jawaban:<br>W = F x s<br>s = W/F<br> s = 15.000 <br>J/500 <br>N = 30 m",
+						"true": 0
+					},
+					{
+						"answer": "250",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br>W = 15.000 J <br> F = 500 N<br>Ditanyakan: s = …? <br>Jawaban:<br>W = F x s<br>s = W/F<br> s = 15.000 <br>J/500 <br>N = 30 m",
+						"true": 0
+					}
+				]
+			},
+			{
+				"question": "Kegiatan beberapa anak di bawah ini yang tidak melakukan usaha adalah?",
+				"description": null,
+				"answers": [
+					{
+						"answer": "mendorong gerobak bakso sejauh 10 meter",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan: <br>W = ΣF s,<br> Keterangan : W = Usaha atau kerja, F = gaya, s= perpindahan <br>Berdasarkan rumus diatas, ada usaha jika ada gaya dan perpindahan atau ada gerak",
+						"true": 0
+					},
+					{
+						"answer": "mendorong mobil mogok sampai bergerak",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan:  <br>W = ΣF s,<br> Keterangan : W = Usaha atau kerja, F = gaya, s= perpindahan <br>Berdasarkan rumus diatas, ada usaha jika ada gaya dan perpindahan atau ada gerak",
+						"true": 0
+					},
+					{
+						"answer": "mendorong tembok yang kokoh sampai berkeringat",
+						"alert": "<strong>Jawaban Benar!</strong><br> Pembahasan:  <br>W = ΣF s,<br> Keterangan : W = Usaha atau kerja, F = gaya, s= perpindahan <br>Berdasarkan rumus diatas, ada usaha jika ada gaya dan perpindahan atau ada gerak",
+						"true": 1
+					},
+					{
+						"answer": "Mengayuh sepeda dari rumah sampai sekolah",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan:  <br>W = ΣF s,<br> Keterangan : W = Usaha atau kerja, F = gaya, s= perpindahan <br>Berdasarkan rumus diatas, ada usaha jika ada gaya dan perpindahan atau ada gerak",
+						"true": 0
+					}
+				]
+			},
+			{
+				"question": "Besar daya yang dilakukan oleh seekor sapi yang menarik gerobak dengan gaya 7.000 N sehingga gerobak tersebut dapat berpindah sejauh 10 m dalam waktu 35 detik adalah …. watt?",
+				"description": null,
+				"answers": [
+					{
+						"answer": "2.000",
+						"alert": "<strong>Jawaban Benar!</strong> <br>Pembahasan : <br>P = W/t <br>s = (F x s)/t <br>P = (7000 N x 10 m) / 35 detik <br>P = 70000 J/35 detik <br>P = 2000 watt",
+						"true": 1
+					},
+					{
+						"answer": "5.000",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan : <br>P = W/t <br>s = (F x s)/t <br>P = (7000 N x 10 m) / 35 detik <br>P = 70000 J/35 detik <br>P = 2000 watt",
+						"true": 0
+					},
+					{
+						"answer": "12.500",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan : <br>P = W/t <br>s = (F x s)/t <br>P = (7000 N x 10 m) / 35 detik <br>P = 70000 J/35 detik <br>P = 2000 watt",
+						"true": 0
+					},
+					{
+						"answer": "24.500",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan : <br>P = W/t <br>s = (F x s)/t <br>P = (7000 N x 10 m) / 35 detik <br>P = 70000 J/35 detik <br>P = 2000 watt",
+						"true": 0
+					}
+				]
+			}
+		]
+	}
+]

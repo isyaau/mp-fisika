@@ -1,0 +1,114 @@
+[
+	{
+		"intro": {
+			"title": "Quiz Soal Bidang Gaya",
+			"description": "Test kemampuan materi Gaya mu"
+		},
+		"questions": [
+			{
+				"question": "Seorang anak mendorong benda dengan gaya 80 N sehingga benda tersebut bergerak dengan kecepatan tertentu. Jika massa benda tersebut 8 kg, hitunglah percepatan benda tersebut?",
+				"description": null,
+				"answers": [
+					{
+						"answer": "10 m/s2",
+						"alert": "<strong>Jawaban Benar!</strong><br> Pembahasan :<br>Diketahui:<br>F = 80 N<br>m = 8 kg<br>ditanyakan: a  = ?<br>jawab:<br>a = F/m<br>a = 80 N/8 kg<br>a = 10 m/s2<br>Jadi percepatan benda tersebut adalah 10 m/s2",
+						"true": 1
+					},
+					{
+						"answer": "20 m/s2",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan :<br> Diketahui:<br>F = 80 N<br>m = 8 kg<br>ditanyakan: a  = ?<br>jawab:<br>a = F/m<br>a = 80 N/8 kg<br>a = 10 m/s2<br>Jadi percepatan benda tersebut adalah 10 m/s2",
+						"true": 0
+					},
+					{
+						"answer": "30 m/s2",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan :<br> Diketahui:<br>F = 80 N<br>m = 8 kg<br>ditanyakan: a  = ?<br>jawab:<br>a = F/m<br>a = 80 N/8 kg<br>a = 10 m/s2<br>Jadi percepatan benda tersebut adalah 10 m/s2",
+						"true": 0
+					},
+					{
+						"answer": "5 m/s2",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan :<br> Diketahui:<br>F = 80 N<br>m = 8 kg<br>ditanyakan: a  = ?<br>jawab:<br>a = F/m<br>a = 80 N/8 kg<br>a = 10 m/s2<br>Jadi percepatan benda tersebut adalah 10 m/s2",
+						"true": 0
+					}
+				]
+			},
+			{
+				"question": "Indah mendorong sebuah meja dengan gaya 100 N sehingga meja tersebut berpindah dengan percepatan 2 m/s2. Hitunglah berapa massa meja tersebut?",
+				"description": null,
+				"answers": [
+					{
+						"answer": "30 kg",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br>  Diketahui:<br>F = 100 N<br>a = 2 m/s2<br>ditanyakan: m  = ?<br>jawab:<br><br>a = F/m => m = F/a<br>m = 100 N/(2 m/s2)<br>m = 50 kg<br>Jadi massa meja tersebut adalah 50 kg",
+						"true": 0
+					},
+					{
+						"answer": "50 kg",
+						"alert": "<strong>Jawaban Benar!</strong><br>Pembahasan :<br> Diketahui:<br>F = 100 N<br>a = 2 m/s2<br>ditanyakan: m  = ?<br>jawab:<br><br>a = F/m => m = F/a<br>m = 100 N/(2 m/s2)<br>m = 50 kg<br>Jadi massa meja tersebut adalah 50 kg",
+						"true": 1
+					},
+					{
+						"answer": "60 kg",
+						"alert": "<strong>Jawaban Benar!</strong> <br>Pembahasan :<br> Diketahui:<br>F = 100 N<br>a = 2 m/s2<br>ditanyakan: m  = ?<br>jawab:<br><br>a = F/m => m = F/a<br>m = 100 N/(2 m/s2)<br>m = 50 kg<br>Jadi massa meja tersebut adalah 50 kg",
+						"true": 0
+					},
+					{
+						"answer": "40 kg",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br> Diketahui:<br>F = 100 N<br>a = 2 m/s2<br>ditanyakan: m  = ?<br>jawab:<br><br>a = F/m => m = F/a<br>m = 100 N/(2 m/s2)<br>m = 50 kg<br>Jadi massa meja tersebut adalah 50 kg",
+						"true": 0
+					}
+				]
+			},
+			{
+				"question": "Gaya adalah segala sesuatu yang apabila dikerjakan terhadap benda dapat menyebabkan terjadinya perubahan ….?",
+				"description": null,
+				"answers": [
+					{
+						"answer": "A. Massa dan Berat",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan: <br> BGaya yang dikerjakan pada suatu benda akan mempengaruhi benda tersebut. Gaya terhadap suatu benda dapat mengakibatkan benda bergerak, berubah bentuk, dan berubah arah. ",
+						"true": 0
+					},
+					{
+						"answer": "B Massa dan Gerak",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan: <br> Gaya yang dikerjakan pada suatu benda akan mempengaruhi benda tersebut. Gaya terhadap suatu benda dapat mengakibatkan benda bergerak, berubah bentuk, dan berubah arah. ",
+						"true": 0
+					},
+					{
+						"answer": "C. Wujud dan Bentuk",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan:  <br> Gaya yang dikerjakan pada suatu benda akan mempengaruhi benda tersebut. Gaya terhadap suatu benda dapat mengakibatkan benda bergerak, berubah bentuk, dan berubah arah. ",
+						"true": 0
+					},
+					{
+						"answer": "D. Gerak dan bentuk",
+						"alert": "<strong>Jawaban Benar!</strong><br> Pembahasan:  <br>Gaya yang dikerjakan pada suatu benda akan mempengaruhi benda tersebut. Gaya terhadap suatu benda dapat mengakibatkan benda bergerak, berubah bentuk, dan berubah arah. ",
+						"true": 1
+					}
+				]
+			},
+			{
+				"question": "Gaya dibendakan menjadi 2 yaitu gaya sentuh dan tak sentuh, berikut ini yang termasuk gaya sentuh adalah? ?",
+				"description": null,
+				"answers": [
+					{
+						"answer": "Gaya Otot",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan : <br> Hubungan yang salah adalah hubungan roda-roda yang tidak dihubungkan dengan tali atau rantai",
+						"true": 0
+					},
+					{
+						"answer": "Gaya Pegas",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br> Hubungan yang salah adalah hubungan roda-roda yang tidak dihubungkan dengan tali atau rantai",
+						"true": 0
+					},
+					{
+						"answer": "Gaya Gravitasi",
+						"alert": "<strong>Jawaban Benar!</strong> <br>Pembahasan :<br> Hubungan yang salah adalah hubungan roda-roda yang tidak dihubungkan dengan tali atau rantai",
+						"true": 1
+					},
+					{
+						"answer": "Gaya Gesek",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br> Hubungan yang salah adalah hubungan roda-roda yang tidak dihubungkan dengan tali atau rantai",
+						"true": 0
+					}
+				]
+			}
+		]
+	}
+]

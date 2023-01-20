@@ -1,0 +1,114 @@
+[
+	{
+		"intro": {
+			"title": "Quiz Soal Bidang Tuas Pengungkit",
+			"description": "Test kemampuan materi Tuas Pengungkit mu"
+		},
+		"questions": [
+			{
+				"question": "Untuk mengangkat beban 1.000 N digunakan tuas yang panjangnya 300 cm dan lengan beban 50 cm. Hitunglah gaya yang diperlukan mengangkat beban tersebut!",
+				"description": null,
+				"answers": [
+					{
+						"answer": "300 N",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan :<br>  Soal ini merupakan tuas jenis pertama, di mana titik tumpu berada di antara beban dan kuasa. <br> Maka:<br>w = 1.000 N<br>lb = 50 cm<br>Jika panjang tuas dan panjang lengan beban (lb) diketahui maka panjang lengan kuasa (lk) dapat dicari dengan cara mengurangkan panjang tuas dengan lengan kuasa. Maka:<br>lk = 300 cm - lb<br>lk = 300 cm - 50 cm<br>lk = 250 cm<br>Gaya yang diperlukan untuk mengangkat beban yakni:<br>w . lb = F . lk<br>1.000 N . 50 cm = F . 250 cm<br>F  = 1.000 N . 50 cm/250 cm<br>F = 200 N",
+						"true": 0
+					},
+					{
+						"answer": "200 N",
+						"alert": "<strong>Jawaban Benar!</strong><br> Pembahasan :<br>  Soal ini merupakan tuas jenis pertama, di mana titik tumpu berada di antara beban dan kuasa. <br> Maka:<br>w = 1.000 N<br>lb = 50 cm<br>Jika panjang tuas dan panjang lengan beban (lb) diketahui maka panjang lengan kuasa (lk) dapat dicari dengan cara mengurangkan panjang tuas dengan lengan kuasa. Maka:<br>lk = 300 cm - lb<br>lk = 300 cm - 50 cm<br>lk = 250 cm<br>Gaya yang diperlukan untuk mengangkat beban yakni:<br>w . lb = F . lk<br>1.000 N . 50 cm = F . 250 cm<br>F  = 1.000 N . 50 cm/250 cm<br>F = 200 N",
+						"true": 1
+					},
+					{
+						"answer": "400 N",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan :<br>  Soal ini merupakan tuas jenis pertama, di mana titik tumpu berada di antara beban dan kuasa. <br> Maka:<br>w = 1.000 N<br>lb = 50 cm<br>Jika panjang tuas dan panjang lengan beban (lb) diketahui maka panjang lengan kuasa (lk) dapat dicari dengan cara mengurangkan panjang tuas dengan lengan kuasa. Maka:<br>lk = 300 cm - lb<br>lk = 300 cm - 50 cm<br>lk = 250 cm<br>Gaya yang diperlukan untuk mengangkat beban yakni:<br>w . lb = F . lk<br>1.000 N . 50 cm = F . 250 cm<br>F  = 1.000 N . 50 cm/250 cm<br>F = 200 N",
+						"true": 0
+					},
+					{
+						"answer": "250 N",
+						"alert": "<strong>Jawaban Benar!</strong><br> Pembahasan :<br>  Soal ini merupakan tuas jenis pertama, di mana titik tumpu berada di antara beban dan kuasa. <br> Maka:<br>w = 1.000 N<br>lb = 50 cm<br>Jika panjang tuas dan panjang lengan beban (lb) diketahui maka panjang lengan kuasa (lk) dapat dicari dengan cara mengurangkan panjang tuas dengan lengan kuasa. Maka:<br>lk = 300 cm - lb<br>lk = 300 cm - 50 cm<br>lk = 250 cm<br>Gaya yang diperlukan untuk mengangkat beban yakni:<br>w . lb = F . lk<br>1.000 N . 50 cm = F . 250 cm<br>F  = 1.000 N . 50 cm/250 cm<br>F = 200 N",
+						"true": 0
+					}
+				]
+			},
+			{
+				"question": "Sebuah linggis yang panjangnya 1,5 m digunakan untuk mencabut paku yang tertancap disebuah tembok. Linggis ditumpu 25 cm dari paku yang akan di cabut. Untuk melepaskan paku dari tembok diperlukan gaya sebesar 9,4 x 104 N. Berapa gaya lekat paku pada kayu? Berapa keuntungan mekanisnya?",
+				"description": null,
+				"answers": [
+					{
+						"answer": "50",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br> Maka diketahui:<br>Fk = 9,4 x 104 N<br>lb = 25 cm <br>panjang linggis = 1,5 m = 150 cm<br>Panjang lengan kuasa dapat dicari yakni dengan cara mengurangkan panjang linggis dengan lengan beban, maka:<br>lk = panjang linggis - lb<br>lk = 150 cm - 25 cm<br>lk = 125 cm<br>Gaya lekat paku pada kayu yakni:<br><br>Fb . lb = F . lk<br>Fb . 25 cm = 9,4 x 104 N . 125 cm<br>Fb = 9,4 x 104 N . 125 cm/25 cm<br>Fb = 4,7 x 105 N<br>Keuntungan mekanis pengungkit atau tuas yakni:<br>KM = Fb/Fk<br>KM = lk/lb<br>KM = 125 cm/25 cm<br>KM  = 5",
+						"true": 0
+					},
+					{
+						"answer": "5",
+						"alert": "<strong>Jawaban Benar!</strong><br>Pembahasan :<br>Maka diketahui:<br>Fk = 9,4 x 104 N<br>lb = 25 cm <br>panjang linggis = 1,5 m = 150 cm<br>Panjang lengan kuasa dapat dicari yakni dengan cara mengurangkan panjang linggis dengan lengan beban, maka:<br>lk = panjang linggis - lb<br>lk = 150 cm - 25 cm<br>lk = 125 cm<br>Gaya lekat paku pada kayu yakni:<br><br>Fb . lb = F . lk<br>Fb . 25 cm = 9,4 x 104 N . 125 cm<br>Fb = 9,4 x 104 N . 125 cm/25 cm<br>Fb = 4,7 x 105 N<br>Keuntungan mekanis pengungkit atau tuas yakni:<br>KM = Fb/Fk<br>KM = lk/lb<br>KM = 125 cm/25 cm<br>KM  = 5",
+						"true": 1
+					},
+					{
+						"answer": "500",
+						"alert": "<strong>Jawaban Benar!</strong> <br>Pembahasan :<br>Maka diketahui:<br>Fk = 9,4 x 104 N<br>lb = 25 cm <br>panjang linggis = 1,5 m = 150 cm<br>Panjang lengan kuasa dapat dicari yakni dengan cara mengurangkan panjang linggis dengan lengan beban, maka:<br>lk = panjang linggis - lb<br>lk = 150 cm - 25 cm<br>lk = 125 cm<br>Gaya lekat paku pada kayu yakni:<br><br>Fb . lb = F . lk<br>Fb . 25 cm = 9,4 x 104 N . 125 cm<br>Fb = 9,4 x 104 N . 125 cm/25 cm<br>Fb = 4,7 x 105 N<br>Keuntungan mekanis pengungkit atau tuas yakni:<br>KM = Fb/Fk<br>KM = lk/lb<br>KM = 125 cm/25 cm<br>KM  = 5",
+						"true": 0
+					},
+					{
+						"answer": "20",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br>Maka diketahui:<br>Fk = 9,4 x 104 N<br>lb = 25 cm <br>panjang linggis = 1,5 m = 150 cm<br>Panjang lengan kuasa dapat dicari yakni dengan cara mengurangkan panjang linggis dengan lengan beban, maka:<br>lk = panjang linggis - lb<br>lk = 150 cm - 25 cm<br>lk = 125 cm<br>Gaya lekat paku pada kayu yakni:<br><br>Fb . lb = F . lk<br>Fb . 25 cm = 9,4 x 104 N . 125 cm<br>Fb = 9,4 x 104 N . 125 cm/25 cm<br>Fb = 4,7 x 105 N<br>Keuntungan mekanis pengungkit atau tuas yakni:<br>KM = Fb/Fk<br>KM = lk/lb<br>KM = 125 cm/25 cm<br>KM  = 5",
+						"true": 0
+					}
+				]
+			},
+			{
+				"question": "Diketahui tuas dengan gaya beban 500 Kg diangkat dengan pengungkit seperti pada gambar di atas, dengan lengan kuasa 1 m dan lengan bebas 0,25 m. Berapa gaya kuasa yang digunakan untuk mengangkat beban?",
+				"description": null,
+				"answers": [
+					{
+						"answer": "120 N",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan: <br> w.lb = F. lk<br>500.0,25 = F. 1<br>125 = F <br>F = 125 N.<br>Jadi, gaya kuasa pada tuas adalah 125 N.",
+						"true": 0
+					},
+					{
+						"answer": "115 N",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan: <br> w.lb = F. lk<br>500.0,25 = F. 1<br>125 = F <br>F = 125 N.<br>Jadi, gaya kuasa pada tuas adalah 125 N.",
+						"true": 0
+					},
+					{
+						"answer": "400 N",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan:  <br> w.lb = F. lk<br>500.0,25 = F. 1<br>125 = F <br>F = 125 N.<br>Jadi, gaya kuasa pada tuas adalah 125 N.",
+						"true": 0
+					},
+					{
+						"answer": "125 N",
+						"alert": "<strong>Jawaban Benar!</strong><br> Pembahasan:  <br> w.lb = F. lk<br>500.0,25 = F. 1<br>125 = F <br>F = 125 N.<br>Jadi, gaya kuasa pada tuas adalah 125 N.",
+						"true": 1
+					}
+				]
+			},
+			{
+				"question": "Sebuah pengungkit diketahui memiliki  keuntungan mekanis 5 digunakan untuk mengangkat beban sebesar 500 N. Berapa gaya kuasa yang digunakan untuk mengangkat beban tersebut?",
+				"description": null,
+				"answers": [
+					{
+						"answer": "100 N",
+						"alert": "<strong>Jawaban Benar!</strong> <br>Pembahasan : <br> Diketahui pengungkit, dengan w = 500 N dan KM = 5 <br> Ditanya F<br>KM = <br>5 = <br>F =  = 100 N",
+						"true": 1
+					},
+					{
+						"answer": "250 N",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br> Diketahui pengungkit, dengan w = 500 N dan KM = 5 <br> Ditanya F<br>KM = <br>5 = <br>F =  = 100 N",
+						"true": 0
+					},
+					{
+						"answer": "150 N",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br> Diketahui pengungkit, dengan w = 500 N dan KM = 5 <br> Ditanya F<br>KM = <br>5 = <br>F =  = 100 N",
+						"true": 0
+					},
+					{
+						"answer": "100 N",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br> Diketahui pengungkit, dengan w = 500 N dan KM = 5 <br> Ditanya F<br>KM = <br>5 = <br>F =  = 100 N",
+						"true": 0
+					}
+				]
+			}
+		]
+	}
+]

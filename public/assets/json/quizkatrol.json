@@ -1,0 +1,114 @@
+[
+	{
+		"intro": {
+			"title": "Quiz Soal Katrol",
+			"description": "Test kemampuan materi Katrol mu"
+		},
+		"questions": [
+			{
+				"question": "Benda 200 kg ditarik ke atas. Berapa gaya tarik dan keuntungan mekanisnya jika digunakan sebuah katrol tetap?;",
+				"description": null,
+				"answers": [
+					{
+						"answer": "200 N",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan :<br> w = m x g <br>w = 200 x 10 = 2000 N<br>Kentungan mekanis untuk:<br>Sebuah katrol tetap = 1<br>F = w/KM = 2000 N/1 = 2000 N",
+						"true": 0
+					},
+					{
+						"answer": "2000 N",
+						"alert": "<strong>Jawaban Benar!</strong><br> Pembahasan :<br> w = m x g <br>w = 200 x 10 = 2000 N<br>Kentungan mekanis untuk:<br>Sebuah katrol tetap = 1<br>F = w/KM = 2000 N/1 = 2000 N",
+						"true": 1
+					},
+					{
+						"answer": "20 N",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan :<br> w = m x g <br>w = 200 x 10 = 2000 N<br>Kentungan mekanis untuk:<br>Sebuah katrol tetap = 1<br>F = w/KM = 2000 N/1 = 2000 N",
+						"true": 0
+					},
+					{
+						"answer": "2 N",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan :<br> w = m x g <br>w = 200 x 10 = 2000 N<br>Kentungan mekanis untuk:<br>Sebuah katrol tetap = 1<br>F = w/KM = 2000 N/1 = 2000 N",
+						"true": 0
+					}
+				]
+			},
+			{
+				"question": "Katrol tetap yang ditarik dengan gaya 40 N mampu menarik beban sebesar?",
+				"description": null,
+				"answers": [
+					{
+						"answer": "40",
+						"alert": "<strong>Jawaban Benar!</strong> <br>Pembahasan :<br> Diketahui <br> F= 40 <br> Ditanyakan: <br> W=...? <br> Maka Katrol tetap, w=F, jadi beban bisa diangkat sama dengan gaya yang digunakan yaitu 40 N",
+						"true": 1
+					},
+					{
+						"answer": "4",
+						"alert": "<strong>Jawaban Salah!</strong><br>Pembahasan :<br>Diketahui <br> F= 40 <br> Ditanyakan: <br> W=...? <br> Maka Katrol tetap, w=F, jadi beban bisa diangkat sama dengan gaya yang digunakan yaitu 40 N ",
+						"true": 0
+					},
+					{
+						"answer": "400",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br>Diketahui <br> F= 40 <br> Ditanyakan: <br> W=...? <br> Maka Katrol tetap, w=F, jadi beban bisa diangkat sama dengan gaya yang digunakan yaitu 40 N",
+						"true": 0
+					},
+					{
+						"answer": "4000",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br>Diketahui <br> F= 40 <br> Ditanyakan: <br> W=...? <br> Maka Katrol tetap, w=F, jadi beban bisa diangkat sama dengan gaya yang digunakan yaitu 40 N",
+						"true": 0
+					}
+				]
+			},
+			{
+				"question": "Sebuah katrol tetap digunakan untuk mengangkat beban sebesar 50 N. Jika lengan kuasanya 15 m. Berapakah gaya yang perlu dikeluarkan dan berapakah panjang lengan bebannya?",
+				"description": null,
+				"answers": [
+					{
+						"answer": "20 N dan 15 m",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan: <br> Diketahui:<br> w= 50N <br> lk= 15m <br> ditanyakan: <br> a. F<br> b. Lb<br> a. w/F = KM<br> 50/F=1<br>F=50.1<br>F=50N<br> b. lk/lb=KM<br> 15/lb=1<br>lb=15.1<br>lb=15 m",
+						"true": 0
+					},
+					{
+						"answer": "100 N dan 30 m",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan: <br> Diketahui:<br> w= 50N <br> lk= 15m <br> ditanyakan: <br> a. F<br> b. Lb<br> a. w/F = KM<br> 50/F=1<br>F=50.1<br>F=50N<br> b. lk/lb=KM<br> 15/lb=1<br>lb=15.1<br>lb=15 mDiketahui:<br> w= 50N <br> lk= 15m <br> ditanyakan: <br> a. F<br> b. Lb<br> a. w/F = KM<br> 50/F=1<br>F=50.1<br>F=50N<br> b. lk/lb=KM<br> 15/lb=1<br>lb=15.1<br>lb=15 m",
+                        "true": 0
+					},
+					{
+						"answer": "100 N dan 15 m",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan:  <br> Diketahui:<br> w= 50N <br> lk= 15m <br> ditanyakan: <br> a. F<br> b. Lb<br> a. w/F = KM<br> 50/F=1<br>F=50.1<br>F=50N<br> b. lk/lb=KM<br> 15/lb=1<br>lb=15.1<br>lb=15 mDiketahui:<br> w= 50N <br> lk= 15m <br> ditanyakan: <br> a. F<br> b. Lb<br> a. w/F = KM<br> 50/F=1<br>F=50.1<br>F=50N<br> b. lk/lb=KM<br> 15/lb=1<br>lb=15.1<br>lb=15 m",
+                        "true": 0
+					},
+					{
+						"answer": "50 N dan 15 m",
+						"alert": "<strong>Jawaban Benar!</strong><br> Pembahasan:  <br> Diketahui:<br> w= 50N <br> lk= 15m <br> ditanyakan: <br> a. F<br> b. Lb<br> a. w/F = KM<br> 50/F=1<br>F=50.1<br>F=50N<br> b. lk/lb=KM<br> 15/lb=1<br>lb=15.1<br>lb=15 mDiketahui:<br> w= 50N <br> lk= 15m <br> ditanyakan: <br> a. F<br> b. Lb<br> a. w/F = KM<br> 50/F=1<br>F=50.1<br>F=50N<br> b. lk/lb=KM<br> 15/lb=1<br>lb=15.1<br>lb=15 m",
+                        "true": 1
+					}
+				]
+			},
+			{
+				"question": "Sebuah katrol bergerak digunakan untuk mengangkat beban. Jika gaya yang diperlukan untuk mengangkat beban tersebut 196 N, berapakah massa beban jika g=9,8m/s2?",
+				"description": null,
+				"answers": [
+					{
+						"answer": "40 kg",
+						"alert": "<strong>Jawaban Benar!</strong> <br>Pembahasan : <br> Diketahui:<br> F = 196 N<br> g= 9,8 m/s2<br> ditanyakan:<br> m:...?<br>F=1/2w<br>w= 2.F<br> w= 2. 196= W= 392 N<br> w= m.g<br> 392 = m . 9,8<br> m = 392/9,8<br> m= 40 Kg",
+						"true": 1
+					},
+					{
+						"answer": "80 kg",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br>Diketahui:<br> F = 196 N<br> g= 9,8 m/s2<br> ditanyakan:<br> m:...?<br>F=1/2w<br>w= 2.F<br> w= 2. 196= W= 392 N<br> w= m.g<br> 392 = m . 9,8<br> m = 392/9,8<br> m= 40 Kg ",
+						"true": 0
+					},
+					{
+						"answer": "20 N",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br>Diketahui:<br> F = 196 N<br> g= 9,8 m/s2<br> ditanyakan:<br> m:...?<br>F=1/2w<br>w= 2.F<br> w= 2. 196= W= 392 N<br> w= m.g<br> 392 = m . 9,8<br> m = 392/9,8<br> m= 40 Kg ",
+						"true": 0
+					},
+					{
+						"answer": "10 N",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br>Diketahui:<br> F = 196 N<br> g= 9,8 m/s2<br> ditanyakan:<br> m:...?<br>F=1/2w<br>w= 2.F<br> w= 2. 196= W= 392 N<br> w= m.g<br> 392 = m . 9,8<br> m = 392/9,8<br> m= 40 Kg ",
+						"true": 0
+					}
+				]
+			}
+		]
+	}
+]

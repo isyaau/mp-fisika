@@ -1,0 +1,114 @@
+[
+	{
+		"intro": {
+			"title": "Quiz Soal Bidang Miring",
+			"description": "Test kemampuan materi Bidang Miring mu"
+		},
+		"questions": [
+			{
+				"question": "Sebuah bidang miring tingginya 1 m dan panjangnya 5 m. Bila berat benda yan akan dipindahkan 1.880 N, hitunglah gaya yang diperlukan untuk memindahkan benda tersebut! ",
+				"description": null,
+				"answers": [
+					{
+						"answer": "378 N",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan :<br> w = 1.880 N <br> s = 5 m <br> h = 1 m <br> w/F = s/h <br> 1.880 N/F = 5 m/1 m <br> 1.880 N/F = 5 <br>F = 1.880 N/5 <br> F = 376 N",
+						"true": 0
+					},
+					{
+						"answer": "377 N",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan :<br> w = 1.880 N <br> s = 5 m <br> h = 1 m <br> w/F = s/h <br> 1.880 N/F = 5 m/1 m <br> 1.880 N/F = 5 <br>F = 1.880 N/5 <br> F = 376 N",
+						"true": 0
+					},
+					{
+						"answer": "475 N",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan :<br> w = 1.880 N <br> s = 5 m <br> h = 1 m <br> w/F = s/h <br> 1.880 N/F = 5 m/1 m <br> 1.880 N/F = 5 <br>F = 1.880 N/5 <br> F = 376 N",
+						"true": 0
+					},
+					{
+						"answer": "375 N",
+						"alert": "<strong>Jawaban Benar!</strong><br> Pembahasan :<br> w = 1.880 N <br> s = 5 m <br> h = 1 m <br> w/F = s/h <br> 1.880 N/F = 5 m/1 m <br> 1.880 N/F = 5 <br>F = 1.880 N/5 <br> F = 376 N",
+						"true": 1
+					}
+				]
+			},
+			{
+				"question": "Papan yang panjangnya 3,6 m disandarkan pada bak mobil yang berada 80 cm dari tanah. Papan tersebut akan digunakan untuk mendorong peti yang massanya 90 kg dari tanah ke bak mobil. Berapa keuntungan mekanis dan gaya dorongnya jika percepatan gravitasi ditempat tesebut 10 m/s2?  ",
+				"description": null,
+				"answers": [
+					{
+						"answer": "450",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br> s = 3,6 m <br>h = 80 cm = 0,8 m <br> m = 90 kg <br>g = 10 m/s2<br>KM = s/h <br>KM = 3,6 m/0,8 m <br>KM = 4,5<br>w/F = s/h<br>m.g/F = s/h <br>90 kg.(10 m/s2)/F = 3,6 m/0,8 m <br>900 N/F = 4,5 <br>F = 900 N/4,5 <br>F = 200 N",
+						"true": 0
+					},
+					{
+						"answer": "500",
+						"alert": "<strong>Jawaban Salah!</strong><br>Pembahasan :<br>s = 3,6 m <br>h = 80 cm = 0,8 m <br> m = 90 kg <br>g = 10 m/s2<br>KM = s/h <br>KM = 3,6 m/0,8 m <br>KM = 4,5<br>w/F = s/h<br>m.g/F = s/h <br>90 kg.(10 m/s2)/F = 3,6 m/0,8 m <br>900 N/F = 4,5 <br>F = 900 N/4,5 <br>F = 200 N ",
+						"true": 0
+					},
+					{
+						"answer": "200",
+						"alert": "<strong>Jawaban Benar!</strong> <br>Pembahasan :<br>s = 3,6 m <br>h = 80 cm = 0,8 m <br> m = 90 kg <br>g = 10 m/s2<br>KM = s/h <br>KM = 3,6 m/0,8 m <br>KM = 4,5<br>w/F = s/h<br>m.g/F = s/h <br>90 kg.(10 m/s2)/F = 3,6 m/0,8 m <br>900 N/F = 4,5 <br>F = 900 N/4,5 <br>F = 200 N",
+						"true": 1
+					},
+					{
+						"answer": "100",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br>s = 3,6 m <br>h = 80 cm = 0,8 m <br> m = 90 kg <br>g = 10 m/s2<br>KM = s/h <br>KM = 3,6 m/0,8 m <br>KM = 4,5<br>w/F = s/h<br>m.g/F = s/h <br>90 kg.(10 m/s2)/F = 3,6 m/0,8 m <br>900 N/F = 4,5 <br>F = 900 N/4,5 <br>F = 200 N",
+						"true": 0
+					}
+				]
+			},
+			{
+				"question": "Sebuah benda dengan berat 1800 N akan dinaikkan ke ketinggian 2,5 m. Jika keuntungan mekanis yang diharapkan adalah 6, berapakah jarak yang ditempuh benda pada bidang miring dan kuasa yang diperlukan untuk mendorong benda tersebut?",
+				"description": null,
+				"answers": [
+					{
+						"answer": "300 N",
+						"alert": "<strong>Jawaban Benar!</strong><br> Pembahasan: <br> w = 1.800 N <br>h = 2,5 m <br>KM = 6 <br>KM = s/h<br>6 = s/2,5 m<br>s = 6 . 2,5 m<br>s = 15 m<br>KM = w/F<br>6 = 1.800 N/F<br>F = 1.800 N/6<br>F = 300 N",
+						"true": 1
+					},
+					{
+						"answer": "30 N",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan: <br> w = 1.800 N <br>h = 2,5 m <br>KM = 6 <br>KM = s/h<br>6 = s/2,5 m<br>s = 6 . 2,5 m<br>s = 15 m<br>KM = w/F<br>6 = 1.800 N/F<br>F = 1.800 N/6<br>F = 300 N",
+						"true": 0
+					},
+					{
+						"answer": "3000 N",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan:  <br> w = 1.800 N <br>h = 2,5 m <br>KM = 6 <br>KM = s/h<br>6 = s/2,5 m<br>s = 6 . 2,5 m<br>s = 15 m<br>KM = w/F<br>6 = 1.800 N/F<br>F = 1.800 N/6<br>F = 300 N",
+						"true": 1
+					},
+					{
+						"answer": "3 N",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan:  <br> w = 1.800 N <br>h = 2,5 m <br>KM = 6 <br>KM = s/h<br>6 = s/2,5 m<br>s = 6 . 2,5 m<br>s = 15 m<br>KM = w/F<br>6 = 1.800 N/F<br>F = 1.800 N/6<br>F = 300 N",
+						"true": 0
+					}
+				]
+			},
+			{
+				"question": " Dengan menggunakan papan yang panjangnya 4 m, pekerja mengerahkan gaya 1.250 N untuk memindahkan kotak ke langit-langit yang tingginya 2 m. Berapakah berat kotak itu?",
+				"description": null,
+				"answers": [
+					{
+						"answer": "250 N",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan : <br> s = 15 m<br>F = 1.250 N<br>h = 2 m<br>w/F = s/h<br>w/1250 N = 4 m/2 m<br>w/1250 N = 2<br>w = 2 . 1250 N<br>w = 2500 N ",
+						"true": 0
+					},
+					{
+						"answer": "2500 N",
+						"alert": "<strong>Jawaban Benar!</strong> <br>Pembahasan :<br> s = 15 m<br>F = 1.250 N<br>h = 2 m<br>w/F = s/h<br>w/1250 N = 4 m/2 m<br>w/1250 N = 2<br>w = 2 . 1250 N<br>w = 2500 N ",
+						"true": 1
+					},
+					{
+						"answer": "25000 N",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br> s = 15 m<br>F = 1.250 N<br>h = 2 m<br>w/F = s/h<br>w/1250 N = 4 m/2 m<br>w/1250 N = 2<br>w = 2 . 1250 N<br>w = 2500 N ",
+						"true": 0
+					},
+					{
+						"answer": "25 N",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br> s = 15 m<br>F = 1.250 N<br>h = 2 m<br>w/F = s/h<br>w/1250 N = 4 m/2 m<br>w/1250 N = 2<br>w = 2 . 1250 N<br>w = 2500 N ",
+						"true": 0
+					}
+				]
+			}
+		]
+	}
+]

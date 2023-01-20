@@ -1,0 +1,114 @@
+[
+	{
+		"intro": {
+			"title": "Quiz Soal Bidang Roda Bergigi",
+			"description": "Test kemampuan materi Roda Bergigi mu"
+		},
+		"questions": [
+			{
+				"question": "Roda A dan B masing-masing berjari-jari 0,5 m dan 1 m saling bersinggungan. Jika roda A berputar dengan kecepatan 20 rad/s maka kecepatan sudut roda B adalah …. ?",
+				"description": null,
+				"answers": [
+					{
+						"answer": "40 rad/s",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan :<br> Berdasarkan keterangan yang diberikan pada soal dapat diperoleh informasi-informasi berikut.<br>Jari-jari roda A: RA = 0,5 m<br>Jari-jari roda B: RB = 1 m<br>Roda A dan Roda B saling bersinggungan<br>Kecepatan putar roda A: vA= 20 rad/s<br>Hubungan roda-roda untuk dua roda yabg saling bersinggungan adalah memiliki kecepatan linear yang sama. Diketahui bahwa roda A dan roda B saling bersinggungan sehingga memenuhi persamaan vA= vB.<br>Menghitung kecepatan sudut roda B (ωB):<br>vA= vB<br>ωA × RA = ωB × RB<br>20 × 0,5 = ωB × 1<br>ωB = 10 rad/s<br><br>Jadi, kecepatan sudut roda B adalah 10 rad/s.<br>Jawaban: 10 rad/s",
+						"true": 0
+					},
+					{
+						"answer": "20 rad/s",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan :<br>  Berdasarkan keterangan yang diberikan pada soal dapat diperoleh informasi-informasi berikut.<br>Jari-jari roda A: RA = 0,5 m<br>Jari-jari roda B: RB = 1 m<br>Roda A dan Roda B saling bersinggungan<br>Kecepatan putar roda A: vA= 20 rad/s<br>Hubungan roda-roda untuk dua roda yabg saling bersinggungan adalah memiliki kecepatan linear yang sama. Diketahui bahwa roda A dan roda B saling bersinggungan sehingga memenuhi persamaan vA= vB.<br>Menghitung kecepatan sudut roda B (ωB):<br>vA= vB<br>ωA × RA = ωB × RB<br>20 × 0,5 = ωB × 1<br>ωB = 10 rad/s<br><br>Jadi, kecepatan sudut roda B adalah 10 rad/s.<br>Jawaban: 10 rad/s",
+						"true": 0
+					},
+					{
+						"answer": "10 rad/s",
+						"alert": "<strong>Jawaban Benar!</strong><br> Pembahasan :<br>  Berdasarkan keterangan yang diberikan pada soal dapat diperoleh informasi-informasi berikut.<br>Jari-jari roda A: RA = 0,5 m<br>Jari-jari roda B: RB = 1 m<br>Roda A dan Roda B saling bersinggungan<br>Kecepatan putar roda A: vA= 20 rad/s<br>Hubungan roda-roda untuk dua roda yabg saling bersinggungan adalah memiliki kecepatan linear yang sama. Diketahui bahwa roda A dan roda B saling bersinggungan sehingga memenuhi persamaan vA= vB.<br>Menghitung kecepatan sudut roda B (ωB):<br>vA= vB<br>ωA × RA = ωB × RB<br>20 × 0,5 = ωB × 1<br>ωB = 10 rad/s<br><br>Jadi, kecepatan sudut roda B adalah 10 rad/s.<br>Jawaban: 10 rad/s",
+						"true": 1
+					},
+					{
+						"answer": "5 rad/s",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan :<br>  Berdasarkan keterangan yang diberikan pada soal dapat diperoleh informasi-informasi berikut.<br>Jari-jari roda A: RA = 0,5 m<br>Jari-jari roda B: RB = 1 m<br>Roda A dan Roda B saling bersinggungan<br>Kecepatan putar roda A: vA= 20 rad/s<br>Hubungan roda-roda untuk dua roda yabg saling bersinggungan adalah memiliki kecepatan linear yang sama. Diketahui bahwa roda A dan roda B saling bersinggungan sehingga memenuhi persamaan vA= vB.<br>Menghitung kecepatan sudut roda B (ωB):<br>vA= vB<br>ωA × RA = ωB × RB<br>20 × 0,5 = ωB × 1<br>ωB = 10 rad/s<br><br>Jadi, kecepatan sudut roda B adalah 10 rad/s.<br>Jawaban: 10 rad/s",
+						"true": 0
+					}
+				]
+			},
+			{
+				"question": "Dua buah roda yaitu roda A dan B dihubungkan dengan tali. Diketahui bahwa jari-jari A adalah 20 cm dan jari-jari Roda B adalah 5 cm. Jika kecepatan roda B sebesar 4 m/s maka perbandingan kecepatan sudut roda B dengan roda A adalah …. ?",
+				"description": null,
+				"answers": [
+					{
+						"answer": "2:25",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br> Berdasarkan keterangan yang diberikan pada soal dapat diperoleh informasi seperti berikut.<br>Jari-jari roda A: RA= 20 cm<br>Jari-jari roda B: RB= 5 cm<br>Kecepatan roda B: vB= 4 m/s<br>Perbandingan kecepatan sudut roda B dengan roda A (ωB : ωA) dapat dicari seperti berikut.<br> VA=VB<br> ωA.RA=ωB.RB<br>ωB/ωA=RA/RB=0,2/0,0,05<br>RA/RB=2:50 maka ωB:ωA= 1:25",
+						"true": 0
+					},
+					{
+						"answer": "1:25",
+						"alert": "<strong>Jawaban Benar!</strong><br>Pembahasan :<br>Berdasarkan keterangan yang diberikan pada soal dapat diperoleh informasi seperti berikut.<br>Jari-jari roda A: RA= 20 cm<br>Jari-jari roda B: RB= 5 cm<br>Kecepatan roda B: vB= 4 m/s<br>Perbandingan kecepatan sudut roda B dengan roda A (ωB : ωA) dapat dicari seperti berikut.<br> VA=VB<br> ωA.RA=ωB.RB<br>ωB/ωA=RA/RB=0,2/0,0,05<br>RA/RB=2:50 maka ωB:ωA= 1:25",
+						"true": 1
+					},
+					{
+						"answer": "25:1",
+						"alert": "<strong>Jawaban Benar!</strong> <br>Pembahasan :<br>Berdasarkan keterangan yang diberikan pada soal dapat diperoleh informasi seperti berikut.<br>Jari-jari roda A: RA= 20 cm<br>Jari-jari roda B: RB= 5 cm<br>Kecepatan roda B: vB= 4 m/s<br>Perbandingan kecepatan sudut roda B dengan roda A (ωB : ωA) dapat dicari seperti berikut.<br> VA=VB<br> ωA.RA=ωB.RB<br>ωB/ωA=RA/RB=0,2/0,0,05<br>RA/RB=2:50 maka ωB:ωA= 1:25",
+						"true": 0
+					},
+					{
+						"answer": "25:2",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br>Berdasarkan keterangan yang diberikan pada soal dapat diperoleh informasi seperti berikut.<br>Jari-jari roda A: RA= 20 cm<br>Jari-jari roda B: RB= 5 cm<br>Kecepatan roda B: vB= 4 m/s<br>Perbandingan kecepatan sudut roda B dengan roda A (ωB : ωA) dapat dicari seperti berikut.<br> VA=VB<br> ωA.RA=ωB.RB<br>ωB/ωA=RA/RB=0,2/0,0,05<br>RA/RB=2:50 maka ωB:ωA= 1:25",
+						"true": 0
+					}
+				]
+			},
+			{
+				"question": "Sebuah sistem roda terdiri dari 3 roda dengan jari-jari RA=50cm, RB=20, dan RC=10cm. Jika roda A memiliki kelajuan linier 1 m/s maka keccepatan sudut C dalam rad/s adalah...?",
+				"description": null,
+				"answers": [
+					{
+						"answer": "0,2",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan: <br> Berdasarkan keterangan yang diberikan pada soal dapat diperoleh informasi-informasi seperti berikut.<br>Jari- jari roda A, B, dan C: RA = 50 cm, RB = 20 cm, dan RC = 10 cm<br>Roda A sepusat dengan roda B<br>Roda B dan roda C dihubungkan sebuah tali<br>Kelajuan linier roda A: vA = 1 m/s<br>Diketahui bahwa roda A sepusat denagn roda B sehingga memenuhi persamaan ωA = ωB atau vARB = vBRA.<br>Menghitung kecepatan linear roda B:<br>vARB = vBRA<br>1 × 0,20 = vB× 0,5<br>0,5vB= 0,2<br>vB= 0,2/0,5 = 0,4 m/s<br>Diketahui bahwa roda B dan roda C dihubungkan oleh sebuah tali, sehingga vB = vC.<br>Menghitung kecepatan sudut roda C:<br>vB = vC<br>0,4 = ωCRC<br>0,4 = ωC × 0,1<br>0,1ωC = 0,4<br>ωC = 0,4/0,1 = 4 rad/s<br>Jadi, kecepatan sudut roda C adalah 4 rad/s.",
+						"true": 0
+					},
+					{
+						"answer": "1",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan: <br> erdasarkan keterangan yang diberikan pada soal dapat diperoleh informasi-informasi seperti berikut.<br>Jari- jari roda A, B, dan C: RA = 50 cm, RB = 20 cm, dan RC = 10 cm<br>Roda A sepusat dengan roda B<br>Roda B dan roda C dihubungkan sebuah tali<br>Kelajuan linier roda A: vA = 1 m/s<br>Diketahui bahwa roda A sepusat denagn roda B sehingga memenuhi persamaan ωA = ωB atau vARB = vBRA.<br>Menghitung kecepatan linear roda B:<br>vARB = vBRA<br>1 × 0,20 = vB× 0,5<br>0,5vB= 0,2<br>vB= 0,2/0,5 = 0,4 m/s<br>Diketahui bahwa roda B dan roda C dihubungkan oleh sebuah tali, sehingga vB = vC.<br>Menghitung kecepatan sudut roda C:<br>vB = vC<br>0,4 = ωCRC<br>0,4 = ωC × 0,1<br>0,1ωC = 0,4<br>ωC = 0,4/0,1 = 4 rad/s<br>Jadi, kecepatan sudut roda C adalah 4 rad/s.",
+						"true": 0
+					},
+					{
+						"answer": "2",
+						"alert": "<strong>Jawaban Salah!</strong><br> Pembahasan:  <br> erdasarkan keterangan yang diberikan pada soal dapat diperoleh informasi-informasi seperti berikut.<br>Jari- jari roda A, B, dan C: RA = 50 cm, RB = 20 cm, dan RC = 10 cm<br>Roda A sepusat dengan roda B<br>Roda B dan roda C dihubungkan sebuah tali<br>Kelajuan linier roda A: vA = 1 m/s<br>Diketahui bahwa roda A sepusat denagn roda B sehingga memenuhi persamaan ωA = ωB atau vARB = vBRA.<br>Menghitung kecepatan linear roda B:<br>vARB = vBRA<br>1 × 0,20 = vB× 0,5<br>0,5vB= 0,2<br>vB= 0,2/0,5 = 0,4 m/s<br>Diketahui bahwa roda B dan roda C dihubungkan oleh sebuah tali, sehingga vB = vC.<br>Menghitung kecepatan sudut roda C:<br>vB = vC<br>0,4 = ωCRC<br>0,4 = ωC × 0,1<br>0,1ωC = 0,4<br>ωC = 0,4/0,1 = 4 rad/s<br>Jadi, kecepatan sudut roda C adalah 4 rad/s.",
+						"true": 0
+					},
+					{
+						"answer": "4",
+						"alert": "<strong>Jawaban Benar!</strong><br> Pembahasan:  <br> erdasarkan keterangan yang diberikan pada soal dapat diperoleh informasi-informasi seperti berikut.<br>Jari- jari roda A, B, dan C: RA = 50 cm, RB = 20 cm, dan RC = 10 cm<br>Roda A sepusat dengan roda B<br>Roda B dan roda C dihubungkan sebuah tali<br>Kelajuan linier roda A: vA = 1 m/s<br>Diketahui bahwa roda A sepusat denagn roda B sehingga memenuhi persamaan ωA = ωB atau vARB = vBRA.<br>Menghitung kecepatan linear roda B:<br>vARB = vBRA<br>1 × 0,20 = vB× 0,5<br>0,5vB= 0,2<br>vB= 0,2/0,5 = 0,4 m/s<br>Diketahui bahwa roda B dan roda C dihubungkan oleh sebuah tali, sehingga vB = vC.<br>Menghitung kecepatan sudut roda C:<br>vB = vC<br>0,4 = ωCRC<br>0,4 = ωC × 0,1<br>0,1ωC = 0,4<br>ωC = 0,4/0,1 = 4 rad/s<br>Jadi, kecepatan sudut roda C adalah 4 rad/s.",
+						"true": 1
+					}
+				]
+			},
+			{
+				"question": "Hubungan dari roda -roda dibawah ini yang benar adalah, Kecuali?",
+				"description": null,
+				"answers": [
+					{
+						"answer": "Hubungan antar dua roda sepusat",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan : <br> Hubungan yang salah adalah hubungan roda-roda yang tidak dihubungkan dengan tali atau rantai",
+						"true": 0
+					},
+					{
+						"answer": "Hubungan roda bersinggungan",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br> Hubungan yang salah adalah hubungan roda-roda yang tidak dihubungkan dengan tali atau rantai",
+						"true": 0
+					},
+					{
+						"answer": "Hubungan roda-roda yang dihubungkan tali/rantai",
+						"alert": "<strong>Jawaban Salah!</strong> <br>Pembahasan :<br> Hubungan yang salah adalah hubungan roda-roda yang tidak dihubungkan dengan tali atau rantai",
+						"true": 0
+					},
+					{
+						"answer": "Hubungan roda-roda yang tidak dihubungkan dengan tali/rantai",
+						"alert": "<strong>Jawaban Benar!</strong> <br>Pembahasan :<br> Hubungan yang salah adalah hubungan roda-roda yang tidak dihubungkan dengan tali atau rantai",
+						"true": 1
+					}
+				]
+			}
+		]
+	}
+]
